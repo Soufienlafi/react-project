@@ -1,0 +1,500 @@
+{
+  "produits": [
+    {
+      "reference": "3352",
+      "designation": "casque - asus",
+      "marque": "asus",
+      "prixAchat": "400",
+      "prixVente": "400",
+      "qtestock": "50",
+      "imageartpetitf": "images/casque-asus-2.jpg",
+      "image2": "images/casque-asus-1.jpg",
+      "id": 28
+    },
+    {
+      "id": 4,
+      "reference": "farsan",
+      "designation": "casque-msi",
+      "marque": " MSI",
+      "prixAchat": 400.1,
+      "prixVente": 401.2,
+      "qtestock": 220,
+      "imageartpetitf": "images/casque-msi-2.jpg",
+      "image2": "images/casque-msi-1.jpg"
+    },
+    {
+      "id": 5,
+      "reference": "delpush",
+      "designation": "micro-casque",
+      "marque": "MSI",
+      "prixAchat": 401.2,
+      "prixVente": 401.2,
+      "qtestock": 85,
+      "imageartpetitf": "images/micro-casque-1.jpg",
+      "image2": "images/micro-casque-2.jpg"
+    },
+    {
+      "id": 6,
+      "reference": "tv-samsung",
+      "designation": "tv-samsung",
+      "marque": "samsung",
+      "prixAchat": 4300,
+      "prixVente": 4300,
+      "qtestock": 850,
+      "caracteristiques": "smart 4k ",
+      "imageartpetitf": "images/tv-samsung-1.jpg",
+      "image2": "images/tv-samsung-2.jpg"
+    },
+    {
+      "id": 7,
+      "reference": " clavier mecanique",
+      "designation": "clavier mecanique-redragon",
+      "marque": "redragon",
+      "prixAchat": 100,
+      "prixVente": 120,
+      "qtestock": 85,
+      "imageartpetitf": "images/mecanique-redragon-2.jpg",
+      "image2": "images/mecanique-redragon-1.jpg"
+    },
+    {
+      "id": 8,
+      "reference": "clavier",
+      "designation": "clavier mecanique-redragon",
+      "marque": "redragon",
+      "prixAchat": 200,
+      "prixVente": 230,
+      "qtestock": 100,
+      "imageartpetitf": "images/redragon-k606-1.jpg",
+      "image2": "images/redragon-k606-2.jpg"
+    },
+    {
+      "id": 9,
+      "reference": "souris",
+      "designation": "souris-redragon- ",
+      "marque": "redragon",
+      "prixAchat": 30,
+      "prixVente": 70,
+      "qtestock": 25,
+      "imageartpetitf": "images/souris-redragon-1.jpg",
+      "image2": "images/souris-redragon-2.jpg"
+    },
+    {
+      "id": 10,
+      "reference": "souris",
+      "designation": "souris-redragon",
+      "marque": "redragon",
+      "prixAchat": 380,
+      "prixVente": 429,
+      "qtestock": 100,
+      "imageartpetitf": "images/souris-redragon-3.jpg",
+      "image2": "images/souris-redragon-4.jpg"
+    },
+    {
+      "id": 11,
+      "reference": "ecran",
+      "designation": "ecran-asus 144hz",
+      "marque": "Asus",
+      "prixAchat": 700,
+      "prixVente": 769,
+      "qtestock": 80,
+      "imageartpetitf": "images/ecran-asus-2.jpg",
+      "image2": "images/ecran-asus-1.jpg"
+    },
+    {
+      "id": 12,
+      "reference": "ecran-redragon",
+      "designation": "ecran-redragon gaming",
+      "marque": "redragon",
+      "prixAchat": 543,
+      "prixVente": 555,
+      "qtestock": 123,
+      "imageartpetitf": "images/ecran-redragon-1.jpg",
+      "image2": "images/ecran-redragon-2.jpg"
+    },
+    {
+      "id": 13,
+      "reference": "ecran-samsung",
+      "designation": "ecran-samsung-odyssey ",
+      "marque": "samsung",
+      "prixAchat": 5500,
+      "prixVente": 6500,
+      "qtestock": 85,
+      "imageartpetitf": "images/ecran-samsung-2.jpg",
+      "image2": "images/ecran-samsung-1.jpg"
+    },
+    {
+      "id": 14,
+      "reference": "ecran-xiaomi",
+      "designation": "ecran-xiaomi- gaming ",
+      "marque": "xiaomi",
+      "prixAchat": 1000,
+      "prixVente": 1200,
+      "qtestock": 100,
+      "imageartpetitf": "images/ecran-xiaomi-1.jpg",
+      "image2": "images/ecran-xiaomi-2.jpg"
+    },
+    {
+      "id": 15,
+      "reference": "dell-vostro",
+      "designation": "dell-vostro laptop ",
+      "marque": "Dell",
+      "prixAchat": 1800,
+      "prixVente": 2000,
+      "qtestock": 100,
+      "imageartpetitf": "images/dell-vostro-1.jpg",
+      "image2": "images/dell-vostro-2.jpg"
+    },
+    {
+      "id": 16,
+      "reference": "laptop",
+      "designation": "Lenovo - 16GB",
+      "marque": "Lenovo",
+      "prixAchat": 1950,
+      "prixVente": 1990,
+      "qtestock": 20,
+      "imageartpetitf": "images/laptop.jpg",
+      "image2": "images/lenovoLaptop.jpg"
+    },
+    {
+      "id": 17,
+      "reference": "Apple",
+      "designation": "macbook-pro-M1",
+      "marque": "Apple",
+      "prixAchat": 11240,
+      "prixVente": 11900,
+      "qtestock": 25,
+      "imageartpetitf": "images/macbook-pro-1.jpg",
+      "image2": "images/macbook-pro-2.jpg"
+    },
+    {
+      "id": 18,
+      "reference": "Asus",
+      "designation": "bureau-asus-rog",
+      "marque": "Asus ROG",
+      "prixAchat": 3049,
+      "prixVente": 3549,
+      "qtestock": 10,
+      "imageartpetitf": "images/bureau-asus-rog-1.jpg",
+      "image2": "images/bureau-asus-rog-2.jpg"
+    },
+    {
+      "id": 19,
+      "reference": "bureau-asus",
+      "designation": "bureau-asus i7-12400F  ",
+      "marque": "Asus",
+      "prixAchat": 3355,
+      "prixVente": 5499,
+      "qtestock": 50,
+      "imageartpetitf": "images/bureau-asus-1.jpg",
+      "image2": "images/bureau-asus-2.jpg"
+    },
+    {
+      "id": 20,
+      "reference": "bureau-lenovo",
+      "designation": "bureau-lenovo-v30 ",
+      "marque": "Lenovo",
+      "prixAchat": 3800,
+      "prixVente": 4280,
+      "qtestock": 10,
+      "imageartpetitf": "images/bureau-lenovo-v30.jpg",
+      "image2": "images/bureau-lenovo-v30a-2.jpg"
+    },
+    {
+      "id": 21,
+      "reference": "rog-phone",
+      "designation": "ASUS rog-phone",
+      "marque": "Asus",
+      "prixAchat": 5100,
+      "prixVente": 5299,
+      "qtestock": 20,
+      "imageartpetitf": "images/rog-phone-1.jpg",
+      "image2": "images/rog-phone-2.jpg"
+    },
+    {
+      "id": 22,
+      "reference": "flip-2",
+      "designation": "samsung  flip-2",
+      "marque": "samsung",
+      "prixAchat": 5840,
+      "prixVente": 6899,
+      "qtestock": 10,
+      "imageartpetitf": "images/flip-2.jpg",
+      "image2": "images/flip-1.jpg"
+    },
+    {
+      "id": 23,
+      "reference": "fold4",
+      "designation": "samsung  fold4",
+      "marque": "samsung",
+      "prixAchat": 6200,
+      "prixVente": 7470,
+      "qtestock": 10,
+      "imageartpetitf": "images/fold4-1.jpg",
+      "image2": "images/fold4-2.jpg"
+    },
+    {
+      "reference": "Play station 5",
+      "designation": "Sony PS5",
+      "marque": "Sony",
+      "prixAchat": "2770",
+      "prixVente": "2799",
+      "qtestock": "50",
+      "imageartpetitf": "images/PS5_1.jpg",
+      "image2": "images/PS5_2.jpg",
+      "id": 24
+    },
+    {
+      "reference": "Xbox ",
+      "designation": "Xbox",
+      "marque": "Xbox",
+      "prixAchat": "2800",
+      "prixVente": "3000",
+      "qtestock": "50",
+      "imageartpetitf": "images/Xbox_1.jpg",
+      "image2": "images/Xbox_2.jpg",
+      "id": 25
+    },
+    {
+      "reference": "151591",
+      "designation": "NINTENDO SWITCH",
+      "marque": "NINTENDO SWITCH OLED",
+      "prixAchat": "1340",
+      "prixVente": "1500",
+      "qtestock": "50",
+      "imageartpetitf": "images/NINTENDO_SWITCH_1.jpg",
+      "image2": "images/NINTENDO_SWITCH_2.jpg",
+      "id": 26
+    }
+  ],
+  "Client": [
+    {
+      "nom": "ali",
+      "prenom": "ali",
+      "adresse": "alicity",
+      "email": "ali@ali.ali",
+      "Password": "hohoho",
+      "tel": "25252544",
+      "id": 3,
+      "avatarUrl": "images/avatar.jpeg"
+    },
+    {
+      "nom": "ali2",
+      "prenom": "ali2",
+      "adresse": "ali2 city",
+      "email": "ali2@ali2.ali2",
+      "Password": "hohoho",
+      "tel": "55448877",
+      "id": 5,
+      "avatarUrl": "images/avatar.jpeg"
+    },
+    {
+      "nom": "homer",
+      "prenom": "simpson",
+      "adresse": "springfeald",
+      "email": "homer@gmail.hehe",
+      "Password": "hohoho",
+      "tel": "505224433",
+      "id": 6,
+      "avatarUrl": "images/Homer.png"
+    },
+    {
+      "nom": "a person",
+      "prenom": "hehe",
+      "adresse": "where that prenson  live I have no idea street",
+      "email": "person@gmail.com",
+      "tel": "25256699",
+      "id": 9,
+      "avatarUrl": "images/avatar.jpeg"
+    },
+    {
+      "nom": "peter ",
+      "prenom": "griffin",
+      "adresse": "quahog rhode island",
+      "email": "peter@gmail.com",
+      "password": "birdistheword",
+      "tel": "5552120066",
+      "id": 10,
+      "avatarUrl": "images/peter.jpeg"
+    },
+    {
+      "nom": "patrick",
+      "prenom": "star",
+      "adresse": "under a rock",
+      "email": "patrick@gmail.com",
+      "password": "ohboy3AM",
+      "tel": "12300225",
+      "id": 11,
+      "avatarUrl": "images/Patrick.jpeg"
+    },
+    {
+      "nom": "saul",
+      "prenom": "Goodman",
+      "adresse": "albuquerque New Mexico",
+      "email": "saulgoodman@gmail.com",
+      "password": "Iknoaguywhonowaguy",
+      "tel": "50521277111",
+      "id": 12,
+      "avatarUrl": "images/saul.jpeg"
+    },
+    {
+      "nom": "jhon",
+      "prenom": "Snow",
+      "adresse": "winterfell",
+      "email": "johnsnow@gmail.com",
+      "password": "witeriscoming",
+      "tel": "00021547",
+      "id": 13,
+      "avatarUrl": "images/avatar.jpeg"
+    },
+    {
+      "nom": "Eugene",
+      "prenom": "krabs",
+      "adresse": "under water",
+      "email": "mrkrabs@gmail.com",
+      "password": "ilovemoney",
+      "tel": "65432516354321",
+      "id": 14,
+      "avatarUrl": "images/krabs.png"
+    },
+    {
+      "nom": "carl ",
+      "prenom": " johnson",
+      "adresse": "los santos grove street ",
+      "email": "carljohnsoncj@gmail.com",
+      "password": "grovestreetforlife",
+      "tel": "12312312355",
+      "id": 15,
+      "avatarUrl": "images/CJ.jpeg"
+    },
+    {
+      "nom": "tomas",
+      "prenom": "anderson",
+      "adresse": "the matrix similation street",
+      "email": "neo@gmail.com",
+      "password": "thereisnospoon",
+      "tel": "555447788",
+      "id": 16,
+      "avatarUrl": "images/avatar.jpeg"
+    },
+    {
+      "nom": "squarepants",
+      "prenom": "spongebob",
+      "adresse": "in a pineappel unde the sea",
+      "email": "spongebobsquarepants@gmail.com",
+      "password": "iamready",
+      "tel": "54548652131516",
+      "id": 17,
+      "avatarUrl": "images/spongebob.png"
+    },
+    {
+      "nom": "White",
+      "prenom": "Walter",
+      "adresse": "albuquerque New Mexico",
+      "email": "WalterWhite@gmail.com",
+      "password": "iamtheoneonewhoknock",
+      "tel": "5552120087",
+      "id": 18,
+      "avatarUrl": "images/walter.jpeg"
+    },
+    {
+      "nom": "",
+      "prenom": "",
+      "adresse": "",
+      "email": "soufienlefi018@gmail.com",
+      "password": "",
+      "tel": "5552120087",
+      "id": 18,
+      "avatarUrl": "images/soufien.png"
+    },
+    {
+      "nom": "the human",
+      "prenom": "fin",
+      "adresse": "I have no idea",
+      "email": "fin@gmail.com",
+      "password": "123123456",
+      "tel": "00021",
+      "avatarUrl": "images/avatar.jpeg",
+      "id": 19
+    },
+    {
+      "nom": "cat",
+      "prenom": "beloga",
+      "adresse": "cat street",
+      "email": "cat@gmail.com",
+      "password": "meowmeowmeow",
+      "tel": "235645454212",
+      "avatarUrl": "images/download.jpeg",
+      "id": 20
+    },
+    {
+      "nom": "tentacles",
+      "prenom": "squidward",
+      "adresse": "under the sea",
+      "email": "squidward@gmail.com",
+      "password": "whatalife",
+      "tel": "5487542154",
+      "avatarUrl": "images/squidward .jpeg",
+      "id": 21
+    },
+    {
+      "nom": "cat",
+      "prenom": "pusheen",
+      "adresse": "cat street",
+      "email": "pusheen@gmail.com",
+      "password": "meowmeowiamacat",
+      "tel": "12457855",
+      "avatarUrl": "images/pusheen.jpeg",
+      "id": 22
+    },
+    {
+      "nom": "watterson",
+      "prenom": "gumball ",
+      "adresse": "elmore",
+      "email": "gumball@gmail.com",
+      "password": "password",
+      "tel": "6548645465465",
+      "avatarUrl": "images/gumball.png",
+      "id": 23
+    },
+    {
+      "nom": "belogaJR",
+      "prenom": "cat",
+      "adresse": "cat street",
+      "email": "catjr@gmail.com",
+      "password": "meowmeowmeowjr",
+      "tel": "12313543854365",
+      "avatarUrl": "images/downloadJR.jpeg",
+      "id": 24
+    },
+    {
+      "nom": "lafi",
+      "prenom": "soufien",
+      "adresse": "soufien's adresse",
+      "email": "soufien@gmail.com",
+      "password": "123321",
+      "tel": "1548789956",
+      "avatarUrl": "images/avatar.jpeg",
+      "id": 25
+    },
+    {
+      "nom": "ali",
+      "prenom": "ali",
+      "adresse": "ali's adresse",
+      "email": "ali3@gmail.com",
+      "password": "alipassword",
+      "tel": "656562",
+      "avatarUrl": "images/avatar.jpeg",
+      "id": 26
+    },
+    {
+      "nom": "client",
+      "prenom": "client",
+      "adresse": "client adresse",
+      "email": "client5000@gmail.com",
+      "password": "123456789",
+      "tel": "22554477",
+      "avatarUrl": "images/avatar.jpeg",
+      "id": 27
+    }
+  ]
+}

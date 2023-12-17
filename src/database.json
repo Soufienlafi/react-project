@@ -1,0 +1,449 @@
+{
+  "produits": [
+    {
+      "id": 3,
+      "reference": "eauxmin",
+      "designation": "casque-asus-1.jpg",
+      "marque": "ASUS",
+      "prixAchat": 0.39,
+      "prixVente": "1000",
+      "qtestock": 1000,
+      "imageartpetitf": "images/casque-asus-1.jpg"
+    },
+    {
+      "id": 4,
+      "reference": "farsan",
+      "designation": "casque-msi-2",
+      "marque": " MSI",
+      "prixAchat": 0.7,
+      "prixVente": 0.85,
+      "qtestock": 220,
+      "imageartpetitf": "images/casque-msi-2.jpg"
+    },
+    {
+      "id": 5,
+      "reference": "delpush",
+      "designation": "micro-casque",
+      "marque": "MSI",
+      "prixAchat": 1.6,
+      "prixVente": 2.3,
+      "qtestock": 85,
+      "imageartpetitf": "images/micro-casque-1.jpg"
+    },
+    {
+      "id": 6,
+      "reference": "Sicamtom",
+      "designation": "Sicam DCT 1/2 SICAM",
+      "marque": "Sicam",
+      "prixAchat": 2.3,
+      "prixVente": 2.5,
+      "qtestock": 85,
+      "caracteristiques": "DCT 1/2 SICAM Ref : 6194055500128",
+      "imageartpetitf": "images/sicamtomate1.jpg"
+    },
+    {
+      "id": 7,
+      "reference": "thon",
+      "designation": "El Manar Lot de 3 Thon entier Extra - A l'huile d'olive",
+      "marque": "Elmanar",
+      "prixAchat": 8.9,
+      "prixVente": 12.5,
+      "qtestock": 85,
+      "imageartpetitf": "images/elmanarthon1.jpg"
+    },
+    {
+      "id": 8,
+      "reference": "delio",
+      "designation": "Delice Déli'O Menthe - 25Cl",
+      "marque": "Delice",
+      "prixAchat": 0.59,
+      "prixVente": 0.65,
+      "qtestock": 100,
+      "imageartpetitf": "images/delicedelio1.jpg"
+    },
+    {
+      "id": 9,
+      "reference": "Infinix",
+      "designation": "Infinix Smart 5 - 6.6\" - 3 Go - 64 Go - Quetzal Cyan ",
+      "marque": "280",
+      "prixAchat": 300,
+      "prixVente": 349,
+      "qtestock": 25,
+      "imageartpetitf": "images/infinix.jpg"
+    },
+    {
+      "id": 10,
+      "reference": "GalaxyA02",
+      "designation": "Samsung Galaxy A02 s - 6.5\" - 4Go - 64Go - Noir",
+      "marque": "Samsung",
+      "prixAchat": 380,
+      "prixVente": 429,
+      "qtestock": 100,
+      "imageartpetitf": "images/samsungGalaxy.jpg"
+    },
+    {
+      "id": 11,
+      "reference": "TecnoOC",
+      "designation": "Tecno Spark 6 - 6.8\" - 4 Go - 128 Go",
+      "marque": "Tecno",
+      "prixAchat": 370,
+      "prixVente": 469,
+      "qtestock": 80,
+      "imageartpetitf": "images/tecno.jpg"
+    },
+    {
+      "id": 12,
+      "reference": "A12",
+      "designation": "Samsung Galaxy A12 - 6.5\" - 4 Go - 128 Go",
+      "marque": "Samsung",
+      "prixAchat": 543,
+      "prixVente": 555,
+      "qtestock": 123,
+      "imageartpetitf": "images/A12.jpg"
+    },
+    {
+      "id": 13,
+      "reference": "Techno4",
+      "designation": "Tecno Pop 4 - 6\"- 2Go - 32Go",
+      "marque": "Tecno",
+      "prixAchat": 220,
+      "prixVente": 269,
+      "qtestock": 85,
+      "imageartpetitf": "images/tecno4.jpg"
+    },
+    {
+      "id": 14,
+      "reference": "Nokia1",
+      "designation": "Nokia 1.4 - 6.52\" - 2 Go - 32 Go - Charcoal",
+      "marque": "Nokia",
+      "prixAchat": 250,
+      "prixVente": 285,
+      "qtestock": 100,
+      "imageartpetitf": "images/nokia1.jpg"
+    },
+    {
+      "id": 15,
+      "reference": "redmi9",
+      "designation": "XIAOMI Redmi 9 - 6.53\" - 4 Go - 64 Go ",
+      "marque": "Xioami",
+      "prixAchat": 440,
+      "prixVente": 600,
+      "qtestock": 100,
+      "imageartpetitf": "images/xioami.jpg"
+    },
+    {
+      "id": 16,
+      "reference": "Tablog",
+      "designation": "Logicom La Tab Link 71 - 7\"- 16GB",
+      "marque": "Logicom",
+      "prixAchat": 140,
+      "prixVente": 184,
+      "qtestock": 20,
+      "imageartpetitf": "images/tab.jpg"
+    },
+    {
+      "id": 17,
+      "reference": "Lenoouv1",
+      "designation": "Lenovo Tab M7 7.0 - 16GB",
+      "marque": "Lenouv",
+      "prixAchat": 240,
+      "prixVente": 269,
+      "qtestock": 25,
+      "imageartpetitf": "images/lenouv.jpg"
+    },
+    {
+      "id": 18,
+      "reference": "Huawi1",
+      "designation": "Huawei Tablette - MatePad T",
+      "marque": "Huawei",
+      "prixAchat": 299,
+      "prixVente": 384,
+      "qtestock": 10,
+      "imageartpetitf": "images/hwawi.jpg"
+    },
+    {
+      "id": 19,
+      "reference": "Huawei10",
+      "designation": "Huawei MatePad T - 10",
+      "marque": "Huawei",
+      "prixAchat": 355,
+      "prixVente": 499,
+      "qtestock": 50,
+      "imageartpetitf": "images/hw.jpg"
+    },
+    {
+      "id": 20,
+      "reference": "HP1",
+      "designation": "Hp PC Portable - 13.3\" - Intel Core™ i5-7200U",
+      "marque": "Hp",
+      "prixAchat": 3800,
+      "prixVente": 4280,
+      "qtestock": 10,
+      "imageartpetitf": "images/HP1.jpg"
+    },
+    {
+      "id": 21,
+      "reference": "lenov1",
+      "designation": "Lenovo PC Portable ThinkBook - i3 10è Gén-4Go-1To-Gris",
+      "marque": "Lenovo",
+      "prixAchat": 1100,
+      "prixVente": 1299,
+      "qtestock": 20,
+      "imageartpetitf": "images/lenov1.jpg"
+    },
+    {
+      "id": 22,
+      "reference": "Lenov22",
+      "designation": "Lenovo PC Portable IP330/4000 DualCore/4Go/1To",
+      "marque": "Lenovo",
+      "prixAchat": 840,
+      "prixVente": 899,
+      "qtestock": 10,
+      "imageartpetitf": "images/lenov21.jpg"
+    },
+    {
+      "id": 23,
+      "reference": "Dell5570",
+      "designation": "DELL PC Inspiron 5570",
+      "marque": "DELL",
+      "prixAchat": 2200,
+      "prixVente": 2470,
+      "qtestock": 10,
+      "imageartpetitf": "images/dell.jpg"
+    },
+    {
+      "id": 24,
+      "reference": "VersusVBOO",
+      "designation": "Versus Pc portable V-Book - 2 Go",
+      "marque": "Versus",
+      "prixAchat": 300,
+      "prixVente": 469,
+      "qtestock": 50,
+      "imageartpetitf": "images/versus.jpg"
+    },
+    {
+      "id": 25,
+      "reference": "HPI3",
+      "designation": "Hp Pc portable I3 11è Gén 8Go",
+      "marque": "Hp",
+      "prixAchat": 1200,
+      "prixVente": 1533,
+      "qtestock": 20,
+      "imageartpetitf": "images/hp10.jpg"
+    },
+    {
+      "id": 26,
+      "reference": "Dell2C",
+      "designation": "Pc Montage - Core 2 DUO - 4Go - 320Go ",
+      "marque": "DELL",
+      "prixAchat": 488,
+      "prixVente": 599,
+      "qtestock": 25,
+      "imageartpetitf": "images/dell10.jpg"
+    },
+    {
+      "id": 27,
+      "reference": "Samsung5300",
+      "designation": "Samsung Téléviseur 43\" - Flat Smart Full HD TV",
+      "marque": "Samsung",
+      "prixAchat": 1100,
+      "prixVente": 1399,
+      "qtestock": 10,
+      "imageartpetitf": "images/tele1.jpg"
+    },
+    {
+      "id": 28,
+      "reference": "condor1",
+      "designation": "Condor Smart 43SD520 Android v9.0",
+      "marque": "Condor",
+      "prixAchat": 880,
+      "prixVente": 1090,
+      "qtestock": 10,
+      "imageartpetitf": "images/condor1.jpg"
+    },
+    {
+      "id": 29,
+      "reference": "43E20",
+      "designation": "Telefunken Téléviseur Smart - 43\" ANDROID",
+      "marque": "Telefunken",
+      "prixAchat": 999,
+      "prixVente": 1149,
+      "qtestock": 10,
+      "imageartpetitf": "images/funken.jpg"
+    },
+    {
+      "id": 30,
+      "reference": "E20",
+      "designation": "Telefunken TV 43\" - E20 - LED - Full HD",
+      "marque": "Telefunken",
+      "prixAchat": 890,
+      "prixVente": 1120,
+      "qtestock": 10,
+      "imageartpetitf": "images/f1.jpg"
+    },
+    {
+      "id": 31,
+      "reference": "LG1",
+      "designation": "LG TV LG 4K Smart UHD UN73 de 43 pouces",
+      "marque": "1300",
+      "prixAchat": null,
+      "prixVente": 1459,
+      "qtestock": 10,
+      "imageartpetitf": "images/lg.jpg"
+    },
+    {
+      "id": 32,
+      "reference": "UA43N5300",
+      "designation": "Samsung Tv - 43\" Full HD Smart N5300",
+      "marque": "1200",
+      "prixAchat": 1100,
+      "prixVente": 1429,
+      "qtestock": 10,
+      "imageartpetitf": "images/s1.jpg"
+    },
+    {
+      "id": 33,
+      "reference": "TU7100",
+      "designation": "Samsung TV Crystal UHD 50 pouces ",
+      "marque": "Samsung",
+      "prixAchat": 1900,
+      "prixVente": 2100,
+      "qtestock": 1920,
+      "imageartpetitf": "images/crystal1.jpg"
+    },
+    {
+      "id": 34,
+      "reference": "curved1",
+      "designation": "Samsung Curved TV 65 4K UHD",
+      "marque": "Samsung",
+      "prixAchat": 4200,
+      "prixVente": 5299,
+      "qtestock": 10,
+      "imageartpetitf": "images/curved.jpg"
+    },
+    {
+      "id": 35,
+      "reference": "Sams55",
+      "designation": "Samsung Téléviseur 55\" LED ULTRA HD 4K Smart tv",
+      "marque": "Samsung",
+      "prixAchat": 2200,
+      "prixVente": 2999,
+      "qtestock": 10,
+      "imageartpetitf": "images/hd1.jpg"
+    },
+    {
+      "id": 36,
+      "reference": "RU7100",
+      "designation": "Samsung Smart 4K TV UHD - 65\" ",
+      "marque": "Samsung",
+      "prixAchat": 4200,
+      "prixVente": 4399,
+      "qtestock": 10,
+      "imageartpetitf": "images/k4.jpg"
+    },
+    {
+      "id": 37,
+      "reference": "Home 360",
+      "designation": "XIAOMI Caméra de sécurité XIAOMI Home 360",
+      "marque": "XIAOMI",
+      "prixAchat": 100,
+      "prixVente": 119,
+      "qtestock": 20,
+      "imageartpetitf": "images/cam.jpg"
+    },
+    {
+      "id": 38,
+      "reference": "pw1",
+      "designation": "Power résistance bands",
+      "marque": "m",
+      "prixAchat": 50,
+      "prixVente": 73,
+      "qtestock": 10,
+      "imageartpetitf": "images/sport1.jpg"
+    },
+    {
+      "id": 39,
+      "reference": "flash1",
+      "designation": "Sandisk Flash Disque",
+      "marque": "Sandisk",
+      "prixAchat": 9,
+      "prixVente": 14,
+      "qtestock": 100,
+      "imageartpetitf": "images/flash1.jpg"
+    },
+    {
+      "id": 40,
+      "reference": "Gym1",
+      "designation": "Iron Gym Barre fixe démontable",
+      "marque": "Iron Gym",
+      "prixAchat": 69,
+      "prixVente": 75,
+      "qtestock": 100,
+      "imageartpetitf": "images/gym.jpg"
+    },
+    {
+      "reference": "bal123",
+      "designation": "Ballon",
+      "marque": "adidas",
+      "prixAchat": "20",
+      "prixVente": "40",
+      "qtestock": "14",
+      "imageartpetitf": "images/ballon1.jpg",
+      "id": "jAm_IJ3"
+    }
+  ],
+  "Client": [
+    {
+      "nom": "hehehe",
+      "prenom": "hohohoh",
+      "adresse": "heheheh city",
+      "email": "heheheh@hohoh.he",
+      "Password": "hohoho",
+      "tel": "55448877",
+      "id": 2
+    },
+    {
+      "nom": "ali",
+      "prenom": "ali",
+      "adresse": "alicity",
+      "email": "ali@ali.ali",
+      "Password": "hohoho",
+      "tel": "25252544",
+      "id": 3
+    },
+    {
+      "nom": "ali2",
+      "prenom": "ali2",
+      "adresse": "ali2 city",
+      "email": "ali2@ali2.ali2",
+      "Password": "hohoho",
+      "tel": "55448877",
+      "id": 5
+    },
+    {
+      "nom": "homer",
+      "prenom": "simpson",
+      "adresse": "springfeald",
+      "email": "homer@gmail.hehe",
+      "Password": "hohoho",
+      "tel": "505224433",
+      "id": 6
+    },
+    {
+      "nom": "Walter",
+      "prenom": "White",
+      "adresse": "albuquerque New Mexico",
+      "email": "WalterWhite@meth.com",
+      "Password": "hohoho",
+      "tel": "5552120055",
+      "id": 7
+    }
+  ],
+  "User": [
+    {
+      "UserName": "Soufien",
+      "Password": "Soufien"
+
+    }
+  ]
+}
